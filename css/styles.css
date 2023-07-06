@@ -1,0 +1,226 @@
+.estilaso {
+  font-family: Arial, Helvetica;
+  background: white;
+}
+.menu{
+  list-style:none ;
+  padding: 0;
+  background: #092327;
+  width: 90%;
+  max-width: 1000px;
+  margin: auto;
+
+}
+
+.menu li a{
+  text-decoration: none;
+  color: white;
+  padding: 20px;
+  display: block;
+
+}
+
+.menu li{
+  display: inline-block;
+  text-align: center;
+
+}
+
+.menu li a:hover{
+  background: #ef8354;
+
+}
+
+
+
+.empezar {
+    text-decoration: none;
+ font-size: 1rem;
+ background-color: yellow;
+ color: rgb(0, 0, 0);
+ border: 2px solid black;
+ display: inline-block;
+ margin-left: 1000px;
+
+ padding: 10px 16px;
+
+}
+
+
+.inicia{
+  text-decoration: none;
+ font-size: 1rem;
+ background-color: rgb(255, 255, 255);
+ color: rgb(0, 0, 0);
+ border: 2px solid black;
+ display: inline-block;
+ margin-left: 1000px;
+
+ padding: 10px 16px;
+
+}
+
+
+
+h1{
+  background-color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 38px;
+  text-align: justify;
+  text-align: center;
+}
+
+h2 {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 26px;
+    text-align: justify;
+    text-align: center;
+}
+
+h3 {
+  color: black;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 19px;
+
+  text-align: left;
+  width: 210px;
+
+}
+
+h5 {
+  color: black;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 16px;
+
+  text-align: left;
+  
+}
+
+.portada {
+   resize: both;
+   overflow: auto;
+   height: 400px;
+
+   background-color: aqua;
+
+   /* declaracion de la img */
+
+   background-image: url("../img/diseno-de-paginas-web-sensibles-1024x512.jpg ") ;
+
+   /*repeticion de la img 
+   repeat
+   */
+   background-repeat: no-repeat;
+
+   background-position: center;
+
+   background-size: cover;
+
+   background-attachment: fixed;
+}
+
+
+.diseño {
+  resize: both;
+  overflow: auto;
+  height: 500px;
+  background-color: rgb(255, 255, 255);
+
+  background-image: url("../img/AUI_Website-Builder_01-Hero.webp");
+
+  background-repeat: no-repeat;
+
+  background-position: center;
+
+  background-size: 600px;
+
+}
+
+.usar{
+
+  color: black;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 28px;
+  text-align: right;
+  width: 500px;
+
+}
+
+
+.boton {
+
+
+ text-decoration: none;
+ font-size: 1.6rem;
+ background-color: brown;
+ color: white;
+ border: 2px solid black;
+ display: inline-block;
+ margin-left: 10px;
+
+ padding: 8px 16px;
+
+}
+
+.boseto{
+  resize: both;
+  overflow: auto;
+  height: 600px;
+  background-color: rgb(255, 255, 255);
+
+  background-image: url("../img/23_Website-Builder_AUI.webp");
+
+  background-repeat: no-repeat;
+
+  background-position: right;
+
+  background-size: 600px;
+
+}
+
+.articulo {
+  resize: both;
+  overflow: auto;
+  height: 600px;
+  background-color: rgb(255, 255, 255);
+
+  background-image: url("../img/imagen\ nasgeee.webp");
+
+  background-repeat: no-repeat;
+
+  background-position: left;
+
+  background-size: 700px;
+
+}
+
+
+.armado {
+  text-decoration: none;
+  font-size: 1.3rem;
+  background-color: brown;
+  color: white;
+  border: 2px solid black;
+  display: inline-block;
+  margin-left: 800px;
+ 
+  padding: 8px 16px;
+
+}
+
+
+
+.ofer{
+  color: black;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 19px;
+
+  text-align: left;
+  width: 210px;
+   
+
+
+}
